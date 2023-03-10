@@ -73,3 +73,8 @@
 	url = git@github.com:TRESCLOUD/website.git
 	branch = 16.0
 
+
+[submodule "TRESCLOUD/odoo-clientes-especificos/cauchosvikingo"]
+	path = TRESCLOUD/odoo-clientes-especificos/cauchosvikingo
+	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
+	branch = 16.0
